@@ -3,9 +3,10 @@ Doing exercises in the right posture is an important aspect of it. If the postur
 
 ## Application Link
 
-Use the [link]
+Use the [link](https://xamine-pose.herokuapp.com/predict)
 
 ## Methodology
+
 ### Dataset
 
 
@@ -35,4 +36,9 @@ Component Diagram of application process :-
 ![plot](./component.PNG)
 
 ### Screenshots
-
+![plot](./ss1.PNG)
+![plot](./ss2.PNG)
+![plot](./ss3.PNG)
+![plot](./ss4.PNG)
+![plot](./ss5.PNG)
+![plot](./ss6.PNG)
