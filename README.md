@@ -26,7 +26,7 @@ Use the [link]
 
 Flowchart of application process :-
 
-
+![plot](./flowchart.PNG)
 
 ### Screenshots
 
