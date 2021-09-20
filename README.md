@@ -29,7 +29,7 @@ Flowchart of application process :-
 ![plot](./flowchart.PNG)
 
 Activity Diagram of application process :-
-![plot](./activity.PNG)
+![plot](./Activity.PNG)
 
 Component Diagram of application process :-
 ![plot](./component.PNG)
