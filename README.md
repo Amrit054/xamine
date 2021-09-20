@@ -85,7 +85,7 @@ User then logins in to the created account.
 User gets a list of exercises that he/she needs to be practised.
 ![plot](./ss4.PNG)
 
-Individual Pages
+
 ![plot](./ss5.PNG)
 
 
